@@ -1,0 +1,19 @@
+{
+  "name": "lucio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "./node_modules/nodemon/bin/nodemon.js main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^0.29.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
